@@ -29,8 +29,6 @@ Ingeniero electrónico con especialización en robótica por La Salle Universida
 - Utilización de instrumentos de medida: Osciloscopios, Multímetros, Analizadores de Espectro, etc.
 
 🌐 **Conecta conmigo**
-- 📧 Email: martielias2000@gmail.com
-- 📱 Teléfono: +34 644579416
 - 🌐 LinkedIn: [linkedin.com/in/martí-elias-martin-ab4548264](https://www.linkedin.com/in/mart%C3%AD-elias-martin-ab4548264)
 
 🌍 **Idiomas**
