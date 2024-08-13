@@ -34,7 +34,7 @@ Ingeniero electrónico con especialización en robótica por La Salle Universida
 🌍 **Idiomas**
 - Castellano: Nativo
 - Catalán: Nativo
-- Inglés: B1
+- Inglés: B2
 
 💼 **Habilidades Personales**
 - Resolutivo
