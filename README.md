@@ -7,15 +7,15 @@ I am an **Electronic Engineer** with a specialization in robotics from La Salle 
 
 ## 💼 Work Experience
 
-### Hardware / Software Developer - OXEEN (Sept 2022 - June 2023)
-- Developed firmware for a smartwatch using **FreeRTOS** and **LoRa** communication technology.
-- Built an IoT intermediary node to manage **MQTT** messages, processing and forwarding them to a web server.
-- Designed and 3D printed a charging stand with **USB-C** connectivity for the smartwatch.
-
 ### Automation Electronics Validator (HIL) - Bertrandt Spain (Aug 2023 - Present)
 - Automated and executed tests for electronic systems.
 - Analyzed and validated test results, collaborating with development teams on electronic system improvements.
 - Monitored and validated **Electronic Control Units (ECUs)** throughout the development cycle.
+
+### Hardware / Software Developer - OXEEN (Sept 2022 - June 2023)
+- Developed firmware for a smartwatch using **FreeRTOS** and **LoRa** communication technology.
+- Built an IoT intermediary node to manage **MQTT** messages, processing and forwarding them to a web server.
+- Designed and 3D printed a charging stand with **USB-C** connectivity for the smartwatch.
 
 ## 🎓 Academic Background
 I hold a degree in **Telecommunications Electronics Engineering** from La Salle Campus Barcelona (2023). My final degree project focused on **Image Classification** and **Image Segmentation** using neural networks and the **OpenCV** library.
