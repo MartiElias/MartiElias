@@ -7,6 +7,12 @@ I am an **Electronic Engineer** with a specialization in robotics from La Salle 
 
 ## 💼 Work Experience
 
+### Robot Navigation Systems Coordinator and Lecturer - La Salle Barcelona (September 2024 - Present)
+- Coordinator and lecturer of the 3rd-year course 'Navigation Systems' in the field of Robotics (4 ECTS).
+- Teaching topics such as Simultaneous Localization and Mapping (SLAM), Kalman Filters, sensor and actuator noise models, and Robot Operating System (ROS).
+- Designing projects and practical exercises to facilitate students' understanding of robot navigation principles.
+- Fostering a hands-on approach to learning through innovative assignments and real-world applications of theoretical concepts.
+
 ### Automation Electronics Validator (HIL) - Bertrandt Spain (Aug 2023 - Present)
 - Automated and executed tests for electronic systems.
 - Analyzed and validated test results, collaborating with development teams on electronic system improvements.
