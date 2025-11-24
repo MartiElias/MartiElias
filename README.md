@@ -3,17 +3,28 @@
 📍 Based in Sant Boi de Llobregat, Cataluña, Spain
 
 ## 🛠 About Me
-I am an **Electronic Engineer** with a specialization in robotics from La Salle University Ramón Llull. My passion lies in **robotics** and **embedded systems**, particularly as they are applied to healthcare. I enjoy tackling complex challenges with innovative solutions and take pride in being methodical and consistent throughout the project development lifecycle. I also have experience in **team leadership**, having served as the former captain of my university's rugby team and as the current coach of the men's team.
+I am an **Electronic Engineer** with a specialization in robotics from La Salle University Ramón Llull. My passion lies in **robotics** and **embedded systems**. I enjoy tackling complex challenges with innovative solutions and take pride in being methodical and consistent throughout the project development lifecycle. I also have experience in **team leadership**, having served as the former captain of my university's rugby team and as the current coach of the men's team.
 
 ## 💼 Work Experience
 
-### Robot Navigation Systems Coordinator and Lecturer - La Salle Barcelona (September 2024 - Present)
+### System and Software Engineer – GTD Spain (January 2025 – Present)
+- Development of embedded software in C for real-time systems.
+- Creation of tools and scripts in Python and Bash for testing, integration, and automation.
+- Working with technologies such as DDS and Docker in distributed environments.
+- Execution of automated tests using GoogleTest.
+
+### Sensors Course Lecturer – La Salle Barcelona (February 2025 – Present, Part-time)
+
+- Coordinator and lecturer of the 3rd-year course "Sensors" in the Electronics department (4 ECTS).
+- Teaching classical sensing technologies, digital communication protocols, and embedded systems applied to real-world scenarios.
+
+### Robot Navigation Systems Coordinator and Lecturer - La Salle Barcelona (September 2024 - Present, Part-time)
 - Coordinator and lecturer of the 3rd-year course 'Navigation Systems' in the field of Robotics (4 ECTS).
 - Teaching topics such as Simultaneous Localization and Mapping (SLAM), Kalman Filters, sensor and actuator noise models, and Robot Operating System (ROS).
 - Designing projects and practical exercises to facilitate students' understanding of robot navigation principles.
 - Fostering a hands-on approach to learning through innovative assignments and real-world applications of theoretical concepts.
 
-### Automation Electronics Validator (HIL) - Bertrandt Spain (Aug 2023 - Present)
+### Automation Electronics Validator (HIL) - Bertrandt Spain (Aug 2023 - Dec 2024)
 - Automated and executed tests for electronic systems.
 - Analyzed and validated test results, collaborating with development teams on electronic system improvements.
 - Monitored and validated **Electronic Control Units (ECUs)** throughout the development cycle.
